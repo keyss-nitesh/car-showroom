@@ -214,7 +214,7 @@ function Home() {
 
   return (
     <div className="App">
-      <p>hello</p>
+      <p>hello,kese ho</p>
       <header className="header">
         <h1>Farming Hub</h1>
         <button className="hamburger" onClick={toggleMenu}>
